@@ -5,21 +5,6 @@ $old = $_SESSION['old'] ?? [];
 unset($_SESSION['old']);
 ?>
 
-<?php if (!empty($_SESSION['errors'])): ?>
-    <div class="container mt-3">
-        <?php foreach ($_SESSION['errors'] as $err): ?>
-            <div class="alert alert-danger"><?php echo htmlspecialchars($err); ?></div>
-        <?php endforeach; unset($_SESSION['errors']); ?>
-    </div>
-<?php endif; ?>
-
-<?php if (!empty($_SESSION['success'])): ?>
-    <div class="container mt-3">
-        <div class="alert alert-success"><?php echo htmlspecialchars($_SESSION['success']); ?></div>
-    </div>
-    <?php unset($_SESSION['success']); ?>
-<?php endif; ?>
-
         <!-- Page Header Start -->
         <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);">
             <div class="container-fluid page-header-inner py-5">

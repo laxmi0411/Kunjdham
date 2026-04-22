@@ -7,7 +7,7 @@ define('DB_PASS', '');
 
 // Owner contact - used for notifications
 define('OWNER_EMAIL', 'lakshmitk2301@gmail.com');
-define('OWNER_PHONE', '8317795774');
+define('OWNER_PHONE', '8797674709');
 
 // Twilio / WhatsApp (optional) - set these if you want automatic WhatsApp notifications
 define('TWILIO_SID', '');
