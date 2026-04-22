@@ -81,8 +81,8 @@ if (session_status() === PHP_SESSION_NONE) session_start();
                     </div>
                     <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0">
                         <a href="index.php" class="navbar-brand d-block d-lg-none">
-                            <div class="d-flex flex-column align-items-center">
-                                <img src="img/logo.jpeg" alt="Kunjdham Logo" class="img-fluid mb-1" style="height: 40px; width: auto;">
+                            <div class="d-flex flex-row align-items-center">
+                                <img src="img/logo.png" alt="Kunjdham Logo" class="img-fluid mb-1" style="height: 40px; width: auto;">
                                 <h1 class="m-0 text-primary text-uppercase fs-3">Kunjdham</h1>
                             </div>
                         </a>

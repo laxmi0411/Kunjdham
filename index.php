@@ -212,4 +212,173 @@ include 'includes/header.php';
         </div>
         <!-- Room End -->
 
+        <!-- Testimonial Start -->
+
+        <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
+            <div class="container">
+                <div class="owl-carousel testimonial-carousel py-5">
+                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+                    </div>
+                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+                    </div>
+                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 45px; height: 45px;">
+                            <div class="ps-3">
+                                <h6 class="fw-bold mb-1">Client Name</h6>
+                                <small>Profession</small>
+                            </div>
+                        </div>
+                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
+
+        <!-- Our Vrindavan Start -->
+        <div class="container-fluid py-5 px-lg-5">
+            <div class="container-fluid px-3 px-md-5">
+
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h6 class="section-title text-center text-primary text-uppercase">Our Vrindavan</h6>
+                    <h1 class="mb-5">Vrindavan के प्रमुख मंदिर और घाट <span class="text-primary text-uppercase">| Kunjdham से दूरी सहित</span></h1>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="rounded shadow overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="img/about-2.jpg" alt="Prem Mandir">
+                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="p-4 mt-3">
+                                <h5 class="fw-bold mb-2">प्रेम मंदिर (Prem Mandir)</h5>
+                                <span class="badge bg-primary mb-3">1.5 किमी</span>
+                                <p class="text-body small mb-3">भव्य संगमरमर मंदिर राधा-कृष्ण लीला दृश्यों से सजा। शाम को लाइट शो अविश्वसनीय। Kunjdham से आसान पहुँच।</p>
+                                <p class="small mb-2"><i class="fa fa-clock text-primary me-1"></i><strong>समय:</strong> सुबह 5:30-12, शाम 4:30-8:30</p>
+                                <ul class="small mb-0 ps-3">
+                                    <li>शाम लाइट शो जरूर देखें</li>
+                                    <li>फोटोग्राफी अनुमति है</li>
+                                </ul>
+                                <a href="team.html" class="btn btn-sm btn-primary mt-2">और जानें</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="rounded shadow overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="img/nidhivan-temples-vrindavan.jpg" alt="Nidhivan">
+                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="p-4 mt-3">
+                                <h5 class="fw-bold mb-2">निधिवन (Nidhivan)</h5>
+                                <span class="badge bg-primary mb-3">2 किमी</span>
+                                <p class="text-body small mb-3">रहस्यमयी वन जहाँ रात में रासलीला होती है। सूर्यास्त के बाद फोटोग्राफी निषेध। शांति का अनुभव।</p>
+                                <p class="small mb-2"><i class="fa fa-clock text-primary me-1"></i><strong>समय:</strong> सुबह 5-12, शाम 4-8</p>
+                                <ul class="small mb-0 ps-3">
+                                    <li>रात में नहीं रुकें</li>
+                                    <li>पेड़ों को स्पर्श न करें</li>
+                                </ul>
+                                <a href="team.html" class="btn btn-sm btn-primary mt-2">और जानें</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="rounded shadow overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="img/about-1.jpeg" alt="Banke Bihari">
+                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="p-4 mt-3">
+                                <h5 class="fw-bold mb-2">बाँके बिहारी (Banke Bihari)</h5>
+                                <span class="badge bg-primary mb-3">1.5 किमी</span>
+                                <p class="text-body small mb-3">झूलते बाल स्वरूप की मूर्ति। पर्दा अचानक हटता है। भक्ति का केंद्र, लाखों श्रद्धालु आते हैं।</p>
+                                <p class="small mb-2"><i class="fa fa-clock text-primary me-1"></i><strong>समय:</strong> सुबह 7:45-12, शाम 5:45-9:30</p>
+                                <ul class="small mb-0 ps-3">
+                                    <li>भीड़ में सावधानी</li>
+                                    <li>दर्शन 7-8 मिनट</li>
+                                </ul>
+                                <a href="team.html" class="btn btn-sm btn-primary mt-2">और जानें</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="rounded shadow overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="img/ue5vppcbw2atvimmpskdih47jm68_1582295232_Keshi_Ghat.jpg" alt="Keshi Ghat">
+                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                            <div class="p-4 mt-3">
+                                <h5 class="fw-bold mb-2">केशी घाट (Keshi Ghat)</h5>
+                                <span class="badge bg-primary mb-3">3 किमी</span>
+                                <p class="text-body small mb-3">यमुना के किनारे शांत घाट। सायंकाल भजन-कीर्तन। नाव की सवारी का आनंद लें।</p>
+                                <p class="small mb-2"><i class="fa fa-clock text-primary me-1"></i><strong>समय:</strong> 24 घंटे खुला (आरती शाम 7 बजे)</p>
+                                <ul class="small mb-0 ps-3">
+                                    <li>शाम आरती अवश्य देखें</li>
+                                    <li>नाव सवारी उपलब्ध</li>
+                                </ul>
+                                <a href="team.html" class="btn btn-sm btn-primary mt-2">और जानें</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Our Vrindavan End -->
+
+
+        <!-- Newsletter Start -->
+        <div class="container-fluid newsletter mt-5 wow fadeIn px-3 px-md-5 mb-3" data-wow-delay="0.1s">
+            <div class="row justify-content-center">
+
+                <div class="col-lg-10 border rounded p-1">
+                    <div class="border rounded text-center p-1">
+                        <div class="bg-white rounded text-center p-5">
+                            <h4 class="mb-4">Subscribe Our <span class="text-primary text-uppercase">Newsletter</span></h4>
+                            <div class="position-relative mx-auto" style="max-width: 400px;">
+                                <input class="form-control w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your email">
+                                <button type="button" class="btn btn-primary py-2 px-3 position-absolute top-0 end-0 mt-2 me-2">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Newsletter Start -->
 <?php include 'includes/footer.php'; ?>
